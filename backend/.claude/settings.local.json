@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\ToonToon\\\\Desktop\\\\go\\\\CheckInSystem\\\\backend\" -Recurse)",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(Out-String -Width 300)",
+      "Bash(go get *)"
+    ]
+  }
+}

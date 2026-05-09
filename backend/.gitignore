@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.env
+
+/vendor/
+
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+go.sum
